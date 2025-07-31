@@ -1,0 +1,21 @@
+Cher(e) Professeur(e),
+
+Veuillez noter que cette application peut prendre un peu de temps avant d'exécuter certaines fonctionnalités.
+
+Pour que l'application fonctionne correctement, les bibliothèques suivantes doivent être installées :
+- pandas
+- matplotlib
+- seaborn
+- statsmodels
+- scipy
+- numpy
+- pillow
+- tkintermapview
+
+Commandes pour installer ces bibliothèques :
+pip install pandas matplotlib seaborn statsmodels scipy numpy pillow tkintermapview
+
+Merci pour votre compréhension.
+
+Cordialement,
+Moumene Meriem
